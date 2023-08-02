@@ -1,7 +1,7 @@
 # Robocart: Warehouse Navigator
 
 This application uses text-based input to navigate the menus.
-When choosing an option, please type the number of the desired option.
+When choosing an option, please type the number of the desired option. Keep the local data files in the same folder as the .py file
 
 ## Collect a product
 To collect product, enter #1. Then enter the product ID, the program will display the map and directions to collect the product
